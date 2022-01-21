@@ -1,0 +1,100 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: dimgray;
+}
+.boxes {
+  background-color: lightgrey;
+}
+
+h2,
+p,
+a, .readme-wrapper{
+  text-align: center;
+  color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    font: optional;
+    color: blue ;
+
+}
+span{
+    font-weight: 900px;
+    color: crimson;
+}
+
+a:hover {
+cursor: pointer;
+font-weight: bold;
+color: midnightblue;
+}
+
+.boxes{
+    margin:10px;
+    padding:0px;
+    border: 1px; color:black;
+    border-radius: 10px; color: black;
+    width: 30em;
+    margin-left: 450px;
+    }
+ #box1{
+     background-color: skyblue;
+ }
+#box2{
+    background-color: blueviolet;
+    
+
+    
+    
+}
+#box3{
+    background-color: crimson;
+}
+#box4{
+    background-color: goldenrod;
+}
+.img{
+    height:50px ;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkturquoise;
+    position: relative;
+    left: 80px;
+    top: 55px;
+}
+.original{
+    color: lime;
+}
+.additional{
+    color: aquamarine;
+}
+#show1{
+    color: blueviolet;
+}
+#show5{
+color: cornflowerblue;
+}
+#show3{
+color: firebrick;
+}
+#show6{
+color: darkslateblue;
+}
+#show9{
+color: olive;
+}
+ul{
+    color: cyan;
+}
+.star{
+    font: bold;
+    color: deeppink;
+}
+#wars{
+color: tomato;
+}
+.List{
+    border: 2px solid black;
+
+}
